@@ -1,4 +1,4 @@
-Header 
+![Header](https://github.com/grabrick/grabrick/blob/main/assets/gif.gif)
 
 About Me
 
