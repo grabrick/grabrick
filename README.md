@@ -25,6 +25,7 @@
 ![css](https://img.shields.io/badge/-Css-blue?style=for-the-badge&logo=css3)
 ![js](https://img.shields.io/badge/-JavaScript-EFD81D?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![react](https://img.shields.io/badge/-React-5ED3F3?style=for-the-badge&logo=React&logoColor=black)
+![redux](https://img.shields.io/badge/-Redux-6F42B4?style=for-the-badge&logo=redux&logoColor=white)
 ![scss](https://img.shields.io/badge/-Scss-C86394?style=for-the-badge&logo=Sass&logoColor=white)
 
 
@@ -38,5 +39,5 @@
 
 ## The following technologies to study:
 
-![redux](https://img.shields.io/badge/-Redux-6F42B4?style=for-the-badge&logo=redux&logoColor=white)
+![docker](https://img.shields.io/badge/-Docker-2F2F2F?style=for-the-badge&logo=docker&logoColor=white)
 ![redux-saga](https://img.shields.io/badge/-Redux_Saga-2F2F2F?style=for-the-badge&logo=redux-saga&logoColor=white)
