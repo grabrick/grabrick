@@ -8,7 +8,7 @@
 ## About Me
 
 - 📍 I`m from Kazakhstan(Temirtau)
-- 🖥️ 1+ Years Experience in Front-end Development
+- 🖥️ 2+ Years Experience in Front-end Development
 - 👨 A friendly enthusiast in the world of frontend development
 - 🎓 Junior front-end developer
 
