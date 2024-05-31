@@ -7,10 +7,10 @@
 
 ## About Me
 
-- 📍 I`m from Kazakhstan(Temirtau)
+- 📍 I`m from Kazakhstan
 - 🖥️ 2+ Years Experience in Front-end Development
 - 👨 A friendly enthusiast in the world of frontend development
-- 🎓 Junior front-end developer
+- 🎓 Front-end developer
 
 ### 👇 Connect with me:
 [![vk](https://img.shields.io/badge/-Vk-2787F5?style=for-the-badge&logo=vk)](https://vk.com/golovaest)
