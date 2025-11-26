@@ -208,9 +208,9 @@ long_term_mission:
 └────────────────────────────────────────────────────────────┘
 ```
 
-[![VK](https://img.shields.io/badge/VK_SECURE-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/golovaest)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM_ENCRYPTED-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kirill.o09/)
-[![Telegram](https://img.shields.io/badge/TELEGRAM_CHANNEL-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xrystim)
+[![VK](https://img.shields.io/badge/VK_SECURE-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM_ENCRYPTED-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![Telegram](https://img.shields.io/badge/TELEGRAM_CHANNEL-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me)
 
 ```
 > Contact via encrypted channels only
@@ -266,7 +266,21 @@ long_term_mission:
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:000000&height=120&section=footer&text=STAY%20ANONYMOUS&fontSize=30&fontColor=00ff41&animation=twinkling" />
+```
+     _______________________________________________
+    /                                               \
+   /   SYSTEM LOCKED | SESSION TERMINATED | BYE     \
+  /____________________________________________________\
+        \   ^__^
+         \  (××)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+```
+█▀▀ █▀█ █▄░█ █▄░█ █▀▀ █▀▀ ▀█▀ █ █▀█ █▄░█   █▀▀ █░░ █▀█ █▀ █▀▀ █▀▄
+█▄▄ █▄█ █░▀█ █░▀█ ██▄ █▄▄ ░█░ █ █▄█ █░▀█   █▄▄ █▄▄ █▄█ ▄█ ██▄ █▄▀
+```
 
 </div>
 
